@@ -121,8 +121,6 @@ Este proyecto evidencia experiencia práctica en:
 ```
 equestrian-sales-analysis-powerbi/
 │
-├── README.md
-│
 ├── dashboard/
 │   ├── README.md
 │   └── Sales_Performance_Analysis.pbix
@@ -131,7 +129,9 @@ equestrian-sales-analysis-powerbi/
 │   ├── README.md
 │   └── Ventas_aperos_Github.xlsx
 │
-└── images/
-    ├── README.md
-    ├── dashboard_1.PNG
-    └── dashboard_2.PNG
+├── images/
+│   ├── README.md
+│   ├── dashboard_1.PNG
+│   └── dashboard_2.PNG
+│
+└── README.md
