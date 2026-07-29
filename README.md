@@ -89,13 +89,13 @@ Se diseñó un dashboard de **2 páginas** orientado a facilitar el seguimiento 
 
 ## Página 1
 
-![Dashboard Página 1](images/dashboard_1.png)
+![Dashboard Página 1](images/dashboard_1.PNG)
 
 ---
 
 ## Página 2
 
-![Dashboard Página 2](images/dashboard_2.png)
+![Dashboard Página 2](images/dashboard_2.PNG)
 
 ---
 
