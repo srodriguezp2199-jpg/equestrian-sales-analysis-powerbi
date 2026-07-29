@@ -119,13 +119,19 @@ Este proyecto evidencia experiencia práctica en:
 # Estructura del repositorio
 
 ```
-sales-analysis-powerbi
+equestrian-sales-analysis-powerbi/
 │
 ├── README.md
-├── dashboard
+│
+├── dashboard/
+│   ├── README.md
 │   └── Sales_Performance_Analysis.pbix
-├── data
-│   └── Ventas_aperos_2026_ANONIMIZADO_PowerBI.xlsx
-└── images
-    ├── dashboard_1.png
-    └── dashboard_2.png
+│
+├── data/
+│   ├── README.md
+│   └── Ventas_aperos_Github.xlsx
+│
+└── images/
+    ├── README.md
+    ├── dashboard_1.PNG
+    └── dashboard_2.PNG
